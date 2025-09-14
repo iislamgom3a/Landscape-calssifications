@@ -1,1 +1,2 @@
-# Youth-Data-Intelligence-System
+# Drug availability predictor & alternatives recommender 
+>  DEPI Graduation Project
